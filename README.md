@@ -55,6 +55,7 @@ Install nodemon and express to ensure files run correctly and that the server co
 ## Usage
 
 ![Screenshot of app being used.](./assets/images/Screenshot1.jpg)
+![Screenshot of app being used.](./assets/images/Screenshot1.jpg)
 
 ## Credits
 
@@ -66,13 +67,12 @@ List of collaborators:
 
 The following licenses have been used in the development of this project:
 
-N/A
-
+[![License](https://img.shields.io/badge/License-MIT-success)](https://opensource.org/licenses/MIT)
 
 ## Badges
 
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
+![License: MIT](https://img.shields.io/badge/License-MIT-success)
 
 ## Repo Features
 
@@ -81,6 +81,10 @@ Using this repo can be initiated by running 'npm run Start' in the command termi
 ## How to Contribute
 
 If other developers would like to contribute, you can contact me at armando.rod79@gmail.com.
+
+## URL
+GitHub: https://github.com/RamRod79/Note-taker.git
+Deployed URL:
 
 ## Contact Info
 
