@@ -50,6 +50,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 Pulling the GitHub repository from the follwing URL: https://github.com/RamRod79/Note-taker.git and typing the follwoing command ,'npm install', in the terminal will ensure the dependencies are installed and the program can run properly.
 
+Install nodemon and express to ensure files run correctly and that the server continually connects.
 
 ## Usage
 
@@ -75,25 +76,11 @@ N/A
 
 ## Repo Features
 
-Using this repo can be initiated by running 'npm run Start' in the command terminal after opening the integrated terminal to initiate the program. Using this repo requires inquirer 8.2.4 or higher, and updated node modules to ensure application runs properly.
+Using this repo can be initiated by running 'npm run Start' in the command terminal after opening the integrated terminal to initiate the program. Using this repo requires express and nodemon, and updated node modules to ensure application runs properly.
 
 ## How to Contribute
 
 If other developers would like to contribute, you can contact me at armando.rod79@gmail.com.
-
-## Tests
-
-The tests are located in ./__tests __  and contains the following test files:
-
-Employee.test.js
-
-Engineer.test.js
-
-Intern.test.js
-
-Manager.test.js
-
-Running "npm test" will run and test the files.
 
 ## Contact Info
 
