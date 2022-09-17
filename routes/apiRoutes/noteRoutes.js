@@ -14,7 +14,7 @@ const {
 
 // saving in history
 
-// Rreading HTTP method
+// Reading HTTP method
 router.get('/notes', (req, res) => {
     let saved = notes;
     res.json(saved);
