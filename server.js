@@ -5,7 +5,7 @@ const path = require('path');
 const fs = require ('fs');
 
 // local host
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3199;
 
 //connection to routes route files/folders
 const apiRoutes = require('./routes/apiRoutes');
@@ -27,6 +27,6 @@ app.use('/', htmlRoutes);
 
 // listen to specified port
 app.listen(PORT, () => {
-    });
+console.log("App now runnign on http://localhost:3199/");   
+});
 
-    

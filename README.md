@@ -54,8 +54,8 @@ Install nodemon and express to ensure files run correctly and that the server co
 
 ## Usage
 
-![Screenshot of app being used.](./assets/images/Screenshot1.jpg)
-![Screenshot of app being used.](./assets/images/Screenshot1.jpg)
+![Screenshot of app being used.](./assets/images/Screenshot01.jpg)
+![Screenshot of app being used.](./assets/images/Screenshot02.jpg)
 
 ## Credits
 
