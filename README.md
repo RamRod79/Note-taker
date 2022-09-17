@@ -84,6 +84,7 @@ If other developers would like to contribute, you can contact me at armando.rod7
 
 ## URL
 GitHub: https://github.com/RamRod79/Note-taker.git
+
 Deployed URL:
 
 ## Contact Info
