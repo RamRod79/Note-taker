@@ -4,7 +4,7 @@ const router = require('express').Router();
 // adding notes
 const {
     notes 
- } = require('../../db/db');
+ } = require('../../db/db.json');
 
 //  create or delete note
  const {
@@ -13,7 +13,6 @@ const {
  } = require('../../lib/noteFunctions');
 
 // saving in history
-
 // Reading HTTP method
 router.get('/notes', (req, res) => {
     let saved = notes;

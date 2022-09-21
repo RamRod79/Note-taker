@@ -1,11 +1,13 @@
+
+// local host
+const PORT = process.env.PORT || 3001;
+
 //  Packages needed for this application
 const express = require('express');
 const app = express();
 const path = require('path');
 const fs = require ('fs');
 
-// local host
-const PORT = process.env.PORT || 3001;
 
 //connection to routes route files/folders
 const apiRoutes = require('./routes/apiRoutes');
@@ -21,7 +23,7 @@ app.use(express.urlencoded({
 app.use(express.static('public'));
 app.use(express.json());
 
-// using routes files within app
+// registering routes 
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
 
