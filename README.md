@@ -50,12 +50,12 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 Pulling the GitHub repository from the follwing URL: https://github.com/RamRod79/Note-taker.git and typing the follwoing command ,'npm install', in the terminal will ensure the dependencies are installed and the program can run properly.
 
-Install nodemon and express to ensure files run correctly and that the server continually connects.
+Install nodemon and express to ensure files run correctly and that the server continually connects, then you can type "npm run watch" in the terminal to ensure the server does not stop running.
 
 ## Usage
 
-![Screenshot of app being used.](./assets/images/Screenshot01.jpg)
-![Screenshot of app being used.](./assets/images/Screenshot02.jpg)
+![Screenshot of app being used.](./public/assets/images/Screenshot02.jpg)
+![Screenshot of app being used.](./public/assets/images/Screenshot01.jpg)
 
 ## Credits
 
@@ -84,8 +84,8 @@ If other developers would like to contribute, you can contact me at armando.rod7
 
 ## URL
 GitHub: https://github.com/RamRod79/Note-taker.git
+Deployed URL: http://localhost:3001/
 
-Deployed URL:
 
 ## Contact Info
 
